@@ -41,12 +41,10 @@
 %  OUTPUTS: none
 %
 %
-%  This is written to be run on Andromeda.
-%
 %
 %		                             author: Meridel Phillips
-%                                mmp2192@columbia.edu
-%				                         date:	9/22/2020
+%                                  mmp2192@columbia.edu
+%				                       date: 9/22/2020
 %
 function mmp_dhwpaper_gcms_025deg();
 %--------------------------------------------------
