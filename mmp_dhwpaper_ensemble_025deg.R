@@ -23,8 +23,6 @@
 # with extended MERRA-2 data out to 2019.
 #
 #
-# This is written to be run on Andromeda.
-#
 #
 # 						author: Meridel Phillips
 # 						created: August 3, 2021
